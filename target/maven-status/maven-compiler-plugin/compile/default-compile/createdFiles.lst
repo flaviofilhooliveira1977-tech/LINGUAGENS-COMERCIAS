@@ -1,2 +1,4 @@
-com\programa\App.class
-com\programa\Pessoa.class
+com\programa\controller\PessoaController.class
+com\programa\Main.class
+com\programa\model\Pessoa.class
+com\programa\view\PessoaView.class
